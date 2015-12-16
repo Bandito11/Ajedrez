@@ -1,0 +1,9 @@
+c:\users\bandito\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\bandito\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\bandito\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\bandito\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\Ajedrez.csprojResolveAssemblyReference.cache
+c:\users\bandito\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\bandito\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\Documents\Visual Studio 2013\Projects\Ajedrez\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\Documents\Visual Studio 2013\Projects\Ajedrez\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\Documents\Visual Studio 2013\Projects\Ajedrez\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
